@@ -1,13 +1,56 @@
-<p align="center">
-  <a href='https://github.com/nosignals'>
-  <img src="https://github-readme-stats.vercel.app/api?username=nosignals&theme=buefy&show_icons=true&card_width=450&border_radius=20&bg_color=00000000" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nosignals&card_width=325&langs_count=8&border_radius=15&layout=compact&bg_color=00000000" width="48%" /></a>
-</p>
-
-### Reach me :
-<p align="center">
-  <a href='https://discordapp.com/users/683923749044748288'><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="5%" /></a> &nbsp
-  <a href='https://t.me/nosignal100'><img src="https://www.svgrepo.com/show/341421/telegram-paper-airplane-apps.svg" width="5%" /></a> &nbsp
-  <a href='https://www.facebook.com/dimasvito100'><img src="https://www.svgrepo.com/show/452196/facebook-1.svg" width="5%" /></a> &nbsp
-  <a href='https://www.instagram.com/dimasvito.exe'><img src="https://www.svgrepo.com/show/452229/instagram-1.svg" width="5%" /></a>
-</p>
+## My Project List
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Projects</b></td>
+      <td><b>Stars</b></td>
+      <td><b>Forks</b></td>
+      <td><b>Downloads</b></td>
+      <td><b>Last Version</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/nosignals/neko"><b>Neko</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/nosignals/neko?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/nosignals/neko?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Downloads" src="https://img.shields.io/github/downloads/nosignals/neko/total?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Status" src="https://img.shields.io/github/issues-pr/nosignals/neko?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nosignals/openwrt-neko"><b>openwrt-neko</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/nosignals/openwrt-neko?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/nosignals/openwrt-neko?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Downloads" src="https://img.shields.io/github/downloads/nosignals/openwrt-neko/total?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Status" src="https://img.shields.io/github/issues-pr/nosignals/openwrt-neko?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nosignals/mihomo-clashformagisk"><b>Mihomo for magisk</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/nosignals/mihomo-clashformagisk?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/nosignals/mihomo-clashformagisk?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Downloads" src="https://img.shields.io/github/downloads/nosignals/mihomo-clashformagisk/total?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Status" src="https://img.shields.io/github/issues-pr/nosignals/mihomo-clashformagisk?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nosignals/mihomo-clashformagisk"><b>Mihomo for magisk</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/nosignals/mihomo-clashformagisk?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/nosignals/mihomo-clashformagisk?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Downloads" src="https://img.shields.io/github/downloads/nosignals/mihomo-clashformagisk/total?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Status" src="https://img.shields.io/github/issues-pr/nosignals/mihomo-clashformagisk?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nosignals/mihomo-clashformagisk"><b>Magisk PHP7 Webserver</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/nosignals/magisk-php7-webserver?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/nosignals/magisk-php7-webserver?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Downloads" src="https://img.shields.io/github/downloads/nosignals/magisk-php7-webserver/total?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Status" src="https://img.shields.io/github/issues-pr/nosignals/magisk-php7-webserver?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nosignals/mihomo-clashformagisk"><b>esp-network-monitor</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/nosignals/esp-network-monitor?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/nosignals/esp-network-monitor?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Downloads" src="https://img.shields.io/github/downloads/nosignals/esp-network-monitor/total?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Status" src="https://img.shields.io/github/issues-pr/nosignals/esp-network-monitor?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
